@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Demo TS</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="text_now_playing">Now Playing</string>
+    <string name="text_up_coming">Up Coming</string>
+    <string name="text_profile">Profile</string>
+
+    <string name="error_fetch_msg">Error Fetching the Movies</string>
+    <string name="text_error">Error</string>
+
+    <string name="text_error_email">Invalid email address</string>
+    <string name="text_helper_email">Please type your email</string>
+    <string name="text_hint_email">adamdev@hotmail.com</string>
+    <string name="text_error_name">Invalid password</string>
+    <string name="text_helper_name">Please type your name</string>
+    <string name="text_hint_name">Adam Dev</string>
+    <string name="text_save">Save</string>
+
+    <string name="KEY_NAME">profile_key_name</string>
+    <string name="KEY_EMAIL">profile_email_name</string>
+
+</resources>
